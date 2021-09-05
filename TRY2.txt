@@ -1,1 +1,5 @@
 WELCOME TO MY FIRST REPO!!
+
+HELLO WORLD!
+
+What's about today's wheather?
